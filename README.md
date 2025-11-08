@@ -29,10 +29,10 @@ A customer-tenant-first hardening and configuration baseline for Google Workspac
 
 ## Evidence model (customer-owned)
 
-- Evidence, logs, exports, and admin settings live **in the customer’s Workspace**
+- Evidence, logs, exports, and admin settings live **in the customer's Workspace**
 - FEDLIN automates setup through **GitHub Actions with OIDC only**
-- Customer (or prime) pulls evidence directly for SOC 2 / ISO 27001 / HIPAA auditors
-- Supports your “customer-tenant-first” delivery style
+- Customer (or prime) pulls evidence directly for HIPAA, SOC 2, ISO 27001, NIST (CSF/800-53), PCI DSS, NERC CIP, FERC, FedRAMP, GDPR, CMMC, and other industry framework auditors
+- Supports your "customer-tenant-first" delivery style
 
 ---
 
